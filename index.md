@@ -1,7 +1,7 @@
 ## About
 
 This code implements a distributed non-local heat equation solver using [HPX](https://github.com/STEllAR-GROUP/hpx). This code is mostly used to experiment with new HPX features or
-add new features to the non-local models. 
+add new features to the non-local models. Please find the [Docker image](https://github.com/nonlocalmodels/nonlocalheatequation/packages/338053) with the latest stable version here. 
 
 More details about the code's quality:
 
