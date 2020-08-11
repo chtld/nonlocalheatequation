@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## About
 
 
-### Jekyll Themes
+## Contributors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nonlocalmodels/nonlocalheatequation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Patrick Diehl](https://www.diehlpk.de) <a itemprop="sameAs" content="https://orcid.org/0000-0003-3922-8419" href="https://orcid.org/0000-0003-3922-8419" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-3922-8419</a>
+* Pranav Gayu
+* [Prashant K. Jha](https://www.math.lsu.edu/~jha/) <a itemprop="sameAs" content="https://orcid.org/0000-0003-2158-364X" href="https://orcid.org/0000-0003-2158-364X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-2158-364X</a> 
+* 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
