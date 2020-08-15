@@ -1,5 +1,0 @@
-<map id="rw::reader::readVtuFile" name="rw::reader::readVtuFile">
-<area shape="rect" id="node1" title="Reads mesh data into node file and element file." alt="" coords="377,5,545,32"/>
-<area shape="rect" id="node2" href="$classfe_1_1Mesh.html#ac1d07d36b0a10efe613de68780a4ab46" title="Reads mesh data from the file and populates other data." alt="" coords="172,5,329,32"/>
-<area shape="rect" id="node3" href="$classfe_1_1Mesh.html#a0041afbb7d7e94bfb01c108e460196fb" title="Constructor." alt="" coords="5,5,124,32"/>
-</map>

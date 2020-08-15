@@ -1,6 +1,0 @@
-<map id="tools::pp::Compute::initWriter" name="tools::pp::Compute::initWriter">
-<area shape="rect" id="node1" title="Create new writer object if it is not already done so." alt="" coords="5,71,151,112"/>
-<area shape="rect" id="node2" href="$classrw_1_1writer_1_1VtkWriterInterface.html#ac053ef9965837543785037b2ed15bd7e" title="Open a .vtu file." alt="" coords="199,5,409,47"/>
-<area shape="rect" id="node3" href="$classrw_1_1writer_1_1VtkWriterInterface.html#a47c3448d5d013bde61ffddd3c87ea400" title="Writes the nodes to the file." alt="" coords="199,71,409,112"/>
-<area shape="rect" id="node4" href="$classrw_1_1writer_1_1VtkWriterInterface.html#ab6d4a07577af15d3922d57aa7e692ae6" title="Writes the mesh data to file." alt="" coords="199,136,409,177"/>
-</map>

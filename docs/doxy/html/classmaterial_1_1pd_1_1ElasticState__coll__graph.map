@@ -1,6 +1,0 @@
-<map id="material::pd::ElasticState" name="material::pd::ElasticState">
-<area shape="rect" id="node1" title="A class implementing the state&#45;based elastic material model." alt="" coords="93,975,279,1316"/>
-<area shape="rect" id="node2" href="$classmaterial_1_1pd_1_1BaseMaterial.html" title="A base class providing methods to compute energy density and force." alt="" coords="5,666,212,905"/>
-<area shape="rect" id="node3" href="$structinp_1_1MaterialDeck.html" title="Structure to read and store material related data." alt="" coords="236,659,512,912"/>
-<area shape="rect" id="node4" href="$structinp_1_1MatData.html" title="Structure for elastic properties and fracture properties." alt="" coords="313,5,435,596"/>
-</map>

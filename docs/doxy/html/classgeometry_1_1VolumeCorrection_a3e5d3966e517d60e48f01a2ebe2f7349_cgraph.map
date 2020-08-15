@@ -1,6 +1,0 @@
-<map id="geometry::VolumeCorrection::correctVolume" name="geometry::VolumeCorrection::correctVolume">
-<area shape="rect" id="node1" title="Computes the volume correction for each node inside the neighborhood. Since nodes close the boundary ..." alt="" coords="5,71,213,112"/>
-<area shape="rect" id="node2" href="$classgeometry_1_1Neighbor.html#ab642847e35e9192031dd7ee5b9044794" title="Get neighbor list of node i (element i in case of weak_finite_element)" alt="" coords="275,5,425,47"/>
-<area shape="rect" id="node3" href="$namespaceutil_1_1compare.html#a01f7d35cb54e6e1274397c07dc843f63" title="Compares if a &gt; to b." alt="" coords="261,71,439,112"/>
-<area shape="rect" id="node4" href="$structutil_1_1Point3.html#a88ade487da8fc45dc644cf26c08c9fd4" title="Computes the Euclidean length of the vector." alt="" coords="279,137,421,163"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="util::StateBasedHelperFunctions::dilatation" name="util::StateBasedHelperFunctions::dilatation">
-<area shape="rect" id="node1" title="Computes the extension &#160;and dilatation &#160;for each node where $m_i$ is the weighted volume." alt="" coords="5,5,236,47"/>
-<area shape="rect" id="node2" href="$structutil_1_1Point3.html#a88ade487da8fc45dc644cf26c08c9fd4" title="Computes the Euclidean length of the vector." alt="" coords="284,13,425,39"/>
-</map>

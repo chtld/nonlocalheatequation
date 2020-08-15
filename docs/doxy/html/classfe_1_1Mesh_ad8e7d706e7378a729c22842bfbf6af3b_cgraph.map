@@ -1,4 +1,0 @@
-<map id="fe::Mesh::computeVol" name="fe::Mesh::computeVol">
-<area shape="rect" id="node1" title="Compute the nodal volume." alt="" coords="5,5,169,32"/>
-<area shape="rect" id="node2" href="$classfe_1_1BaseElem.html#a34e668e342108647dfd9cb5928e18420" title="Get vector of quadrature data." alt="" coords="217,5,427,32"/>
-</map>

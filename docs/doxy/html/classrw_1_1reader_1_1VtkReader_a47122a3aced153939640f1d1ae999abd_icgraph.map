@@ -1,7 +1,0 @@
-<map id="rw::reader::VtkReader::readNodes" name="rw::reader::VtkReader::readNodes">
-<area shape="rect" id="node1" title="Reads nodal position." alt="" coords="733,35,896,76"/>
-<area shape="rect" id="node2" href="$namespacerw_1_1reader.html#a145f9e3db271e418c25360ed4ab9459a" title="Reads mesh data into node file and element file." alt="" coords="471,42,685,69"/>
-<area shape="rect" id="node3" href="$classtools_1_1pp_1_1Compute.html#a3c1547d1022c17ed04824287f66deaa9" title="Constructor." alt="" coords="261,5,406,47"/>
-<area shape="rect" id="node4" href="$classmodel_1_1FDModel.html#a7fa086ed4e71112d36a608a62ee2ff79" title="Restarts the simulation from previous state." alt="" coords="244,71,423,98"/>
-<area shape="rect" id="node5" href="$classmodel_1_1FDModel.html#ad86e7ed7dc45fe211211ad07641d3cd2" title="Constructor." alt="" coords="5,71,196,98"/>
-</map>

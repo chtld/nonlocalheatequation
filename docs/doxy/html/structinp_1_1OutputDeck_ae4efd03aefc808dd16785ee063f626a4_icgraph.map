@@ -1,4 +1,0 @@
-<map id="inp::OutputDeck::isTagInOutput" name="inp::OutputDeck::isTagInOutput">
-<area shape="rect" id="node1" title="Searches list of tags and returns true if the asked tag is in the list." alt="" coords="185,5,365,47"/>
-<area shape="rect" id="node2" href="$classrw_1_1writer_1_1Writer.html#a8b334b17f4ca3e78b03d6ff1fbd9052c" title="Function to trigger the output." alt="" coords="5,5,137,47"/>
-</map>

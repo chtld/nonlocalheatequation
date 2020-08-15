@@ -1,5 +1,0 @@
-<map id="geometry::ComputeInterior::getInteriorFlag" name="geometry::ComputeInterior::getInteriorFlag">
-<area shape="rect" id="node1" title="Returns true if node is in interior, false otherwise." alt="" coords="5,39,204,80"/>
-<area shape="rect" id="node2" href="$namespaceutil_1_1compare.html#a01f7d35cb54e6e1274397c07dc843f63" title="Compares if a &gt; to b." alt="" coords="252,5,431,47"/>
-<area shape="rect" id="node3" href="$namespaceutil_1_1compare.html#afbc9630e288fb337b0a67e3cf6df02c9" title="Compares if a is &lt; to b." alt="" coords="252,71,431,112"/>
-</map>

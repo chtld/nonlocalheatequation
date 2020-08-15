@@ -1,6 +1,0 @@
-<map id="rw::writer::Writer::appendPointData" name="rw::writer::Writer::appendPointData">
-<area shape="rect" id="node1" title="Writes the scalar point data to the file." alt="" coords="392,39,535,80"/>
-<area shape="rect" id="node2" href="$classtools_1_1pp_1_1Compute.html#a9ad6b339c1b5fd88d7635f5f52b8a29c" title="Transform displacement." alt="" coords="199,5,344,47"/>
-<area shape="rect" id="node4" href="$classtools_1_1pp_1_1Compute.html#acc6ad66c4a0df27704f81e8e39d9a1a1" title="Transform velocity." alt="" coords="199,71,344,112"/>
-<area shape="rect" id="node3" href="$classtools_1_1pp_1_1Compute.html#a3c1547d1022c17ed04824287f66deaa9" title="Constructor." alt="" coords="5,39,151,80"/>
-</map>

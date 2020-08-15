@@ -1,5 +1,0 @@
-<map id="util::StateBasedHelperFunctions::dilatation" name="util::StateBasedHelperFunctions::dilatation">
-<area shape="rect" id="node1" title="Computes the extension &#160;and dilatation &#160;for each node where $m_i$ is the weighted volume." alt="" coords="5,35,235,76"/>
-<area shape="rect" id="node2" href="$classgeometry_1_1Neighbor.html#ab642847e35e9192031dd7ee5b9044794" title="Get neighbor list of node i (element i in case of weak_finite_element)" alt="" coords="283,5,433,47"/>
-<area shape="rect" id="node3" href="$structutil_1_1Point3.html#a88ade487da8fc45dc644cf26c08c9fd4" title="Computes the Euclidean length of the vector." alt="" coords="287,71,429,98"/>
-</map>

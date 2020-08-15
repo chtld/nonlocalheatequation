@@ -1,6 +1,0 @@
-<map id="rw::reader::readVtuFileRestart" name="rw::reader::readVtuFileRestart">
-<area shape="rect" id="node1" title="Reads mesh data into node file and element file." alt="" coords="5,78,220,105"/>
-<area shape="rect" id="node2" href="$classrw_1_1reader_1_1VtkReader.html#a821ebab48b01275775d5c7de49a92e7b" title="reads point data from .vtu file" alt="" coords="268,5,431,47"/>
-<area shape="rect" id="node3" href="$classrw_1_1reader_1_1VtkReader.html#a47122a3aced153939640f1d1ae999abd" title="Reads nodal position." alt="" coords="268,71,431,112"/>
-<area shape="rect" id="node4" href="$classrw_1_1reader_1_1VtkReader.html#a37637d27bc56ccb4f9a0a929caa7b355" title="Close the file." alt="" coords="268,136,431,177"/>
-</map>

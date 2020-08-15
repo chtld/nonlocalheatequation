@@ -1,7 +1,0 @@
-<map id="rw::writer::VtkWriterInterface::appendPointData" name="rw::writer::VtkWriterInterface::appendPointData">
-<area shape="rect" id="node1" title="Writes the scalar point data to the file." alt="" coords="392,71,603,112"/>
-<area shape="rect" id="node2" href="$classtools_1_1pp_1_1Compute.html#a099343950826660b0c10d1299e07ce77" title="Compute damage at nodes." alt="" coords="199,5,344,47"/>
-<area shape="rect" id="node4" href="$classtools_1_1pp_1_1Compute.html#a0fabe08e4a82665eaf5048e84456b1dd" title="Transform displacement." alt="" coords="199,71,344,112"/>
-<area shape="rect" id="node5" href="$classtools_1_1pp_1_1Compute.html#a49eca7a5ec51bb99847e9d143ea64100" title="Transform velocity." alt="" coords="199,136,344,177"/>
-<area shape="rect" id="node3" href="$classtools_1_1pp_1_1Compute.html#a3c1547d1022c17ed04824287f66deaa9" title="Constructor." alt="" coords="5,71,151,112"/>
-</map>

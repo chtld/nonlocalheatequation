@@ -1,8 +1,0 @@
-<map id="fe::Mesh::createData" name="fe::Mesh::createData">
-<area shape="rect" id="node1" title="Reads mesh data from the file and populates other data." alt="" coords="5,107,163,133"/>
-<area shape="rect" id="node2" href="$namespacerw_1_1reader.html#a4390356883ad2a4f14cb41c69cf3e5ca" title="Reads mesh data into node file and element file." alt="" coords="217,5,388,32"/>
-<area shape="rect" id="node3" href="$namespacerw_1_1reader.html#a06f5f2e42c7507cb34b9b7f4817af82b" title="Reads mesh data into node file and element file." alt="" coords="219,56,387,83"/>
-<area shape="rect" id="node4" href="$namespacerw_1_1reader.html#ae1d467da75a47df964d46c85fc1cd2ea" title="Reads mesh data into node file and element file." alt="" coords="217,107,389,133"/>
-<area shape="rect" id="node5" href="$classinp_1_1Policy.html#a879f83a83b931d42e1c63ddf3d420bd5" title="Returns the pointer to static class. Creates instance in its first call." alt="" coords="217,157,389,184"/>
-<area shape="rect" id="node6" href="$classinp_1_1Policy.html#a67805be66b6e724e0b334224a893872a" title="Returns true/false depending on whether tag is found." alt="" coords="211,208,395,235"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="rw::reader::readVtuFilePointData" name="rw::reader::readVtuFilePointData">
-<area shape="rect" id="node1" title="Reads data of specified tag from the vtu file." alt="" coords="5,46,237,73"/>
-<area shape="rect" id="node2" href="$classrw_1_1reader_1_1VtkReader.html#a821ebab48b01275775d5c7de49a92e7b" title="reads point data from .vtu file" alt="" coords="285,5,448,47"/>
-<area shape="rect" id="node3" href="$classrw_1_1reader_1_1VtkReader.html#a37637d27bc56ccb4f9a0a929caa7b355" title="Close the file." alt="" coords="285,71,448,112"/>
-</map>

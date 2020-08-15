@@ -1,5 +1,0 @@
-<map id="rw::writer::VtkWriterInterface::appendCellData" name="rw::writer::VtkWriterInterface::appendCellData">
-<area shape="rect" id="node1" title="Writes the float data associated to cells to the file." alt="" coords="392,5,603,47"/>
-<area shape="rect" id="node2" href="$classtools_1_1pp_1_1Compute.html#a087b3df0ec51f22cb4cf2e26210950e6" title="Compute strain and stress." alt="" coords="199,5,344,47"/>
-<area shape="rect" id="node3" href="$classtools_1_1pp_1_1Compute.html#a3c1547d1022c17ed04824287f66deaa9" title="Constructor." alt="" coords="5,5,151,47"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="inp::Input::getOutputDeck" name="inp::Input::getOutputDeck">
-<area shape="rect" id="node1" title="Get the pointer to output deck." alt="" coords="248,64,437,91"/>
-<area shape="rect" id="node2" href="$classmodel_1_1FDModel.html#ad86e7ed7dc45fe211211ad07641d3cd2" title="Constructor." alt="" coords="5,5,200,32"/>
-<area shape="rect" id="node3" href="$group__Explicit.html#ga08b6ad1fc1958eec428825914ad9f6db" title="Constructor." alt="" coords="10,57,195,98"/>
-<area shape="rect" id="node4" href="$classrw_1_1writer_1_1Writer.html#a8b334b17f4ca3e78b03d6ff1fbd9052c" title="Function to trigger the output." alt="" coords="37,122,169,163"/>
-</map>

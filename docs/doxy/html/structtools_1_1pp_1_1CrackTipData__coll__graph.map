@@ -1,4 +1,0 @@
-<map id="tools::pp::CrackTipData" name="tools::pp::CrackTipData">
-<area shape="rect" id="node1" title="Datatype to hold crack tip data." alt="" coords="5,527,179,619"/>
-<area shape="rect" id="node2" href="$structutil_1_1Point3.html" title="A structure to represent 3d vectors." alt="" coords="32,5,152,449"/>
-</map>
