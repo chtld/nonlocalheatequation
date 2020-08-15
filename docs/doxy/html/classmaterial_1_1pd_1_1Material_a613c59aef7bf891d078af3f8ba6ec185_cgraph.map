@@ -1,0 +1,4 @@
+<map id="material::pd::Material::getS" name="material::pd::Material::getS">
+<area shape="rect" id="node1" title="Returns the bond strain." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$structutil_1_1Point3.html#ab07305d6e8eb1719243e84753bab0eb6" title="Computes the dot product of this vector with another point." alt="" coords="216,13,337,39"/>
+</map>

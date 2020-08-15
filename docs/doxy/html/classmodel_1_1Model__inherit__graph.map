@@ -1,0 +1,5 @@
+<map id="model::Model" name="model::Model">
+<area shape="rect" id="node1" title="A base class for different model implementation." alt="" coords="183,5,305,684"/>
+<area shape="rect" id="node2" href="$classmodel_1_1FDModel.html" title="A class for finite difference approximation of Peridynamics" alt="" coords="5,732,224,1513"/>
+<area shape="rect" id="node3" href="$classmodel_1_1QuasiStaticModel.html" title="A class for finite difference approximation of Peridynamics" alt="" coords="249,893,498,1352"/>
+</map>

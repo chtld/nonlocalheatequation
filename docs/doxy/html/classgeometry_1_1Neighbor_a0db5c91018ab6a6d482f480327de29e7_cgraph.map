@@ -1,0 +1,5 @@
+<map id="geometry::Neighbor::Neighbor" name="geometry::Neighbor::Neighbor">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,35,156,76"/>
+<area shape="rect" id="node2" href="$namespaceutil_1_1compare.html#afbc9630e288fb337b0a67e3cf6df02c9" title="Compares if a is &lt; to b." alt="" coords="204,5,381,47"/>
+<area shape="rect" id="node3" href="$structutil_1_1Point3.html#aef1f45348440964c4e42136ed4e4a04c" title="Computes the distance between a given point from this point." alt="" coords="231,71,355,98"/>
+</map>

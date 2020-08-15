@@ -1,0 +1,4 @@
+<map id="util::Point3::dot" name="util::Point3::dot">
+<area shape="rect" id="node1" title="Computes the dot product of this vector with another point." alt="" coords="216,13,337,39"/>
+<area shape="rect" id="node2" href="$classmaterial_1_1pd_1_1Material.html#a613c59aef7bf891d078af3f8ba6ec185" title="Returns the bond strain." alt="" coords="5,5,168,47"/>
+</map>
