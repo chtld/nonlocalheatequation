@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Nonlocalheatequation", "index.html", [
-    [ "nonlocalheatequation <a href=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation\"><img src=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation.svg?style=shield\" alt=\"CircleCI\"/></a> <a href=\"https://app.codacy.com/gh/nonlocalmodels/nonlocalheatequation?utm_source=github.com&utm_medium=referral&utm_content=nonlocalmodels/nonlocalheatequation&utm_campaign=Badge_Grade_Dashboard\"><img src=\"https://api.codacy.com/project/badge/Grade/6fcd87ddfb4146f7b236c2ac2dc0bd42\" alt=\"Codacy Badge\"/></a>", "index.html", null ],
+    [ "nonlocalheatequation <a href=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation\"><img src=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation.svg?style=shield\" alt=\"CircleCI\"/></a> <a href=\"https://app.codacy.com/gh/nonlocalmodels/nonlocalheatequation?utm_source=github.com&utm_medium=referral&utm_content=nonlocalmodels/nonlocalheatequation&utm_campaign=Badge_Grade_Dashboard\"><img src=\"https://api.codacy.com/project/badge/Grade/6fcd87ddfb4146f7b236c2ac2dc0bd42\" alt=\"Codacy Badge\"/></a> <a href=\"https://coveralls.io/github/nonlocalmodels/nonlocalheatequation?branch=master\"><img src=\"https://coveralls.io/repos/github/nonlocalmodels/nonlocalheatequation/badge.svg?branch=master\" alt=\"Coverage Status\"/></a>", "index.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
