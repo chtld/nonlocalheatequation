@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unit_45',['unit',['../structutil_1_1Point3.html#a6f5bb647d3bf440ea64cfedfd758e884',1,'util::Point3::unit()'],['../structutil_1_1Point3.html#a345bca0e2f931f52b28093c636aad6b6',1,'util::Point3::unit() const']]]
+  ['hpx_5fdefine_5fcomponent_5fdirect_5faction_94',['HPX_DEFINE_COMPONENT_DIRECT_ACTION',['../structpartition__space__server.html#a1384af0d5271af0dd653c9b66a876e06',1,'partition_space_server']]]
 ];
