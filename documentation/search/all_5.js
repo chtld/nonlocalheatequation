@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['partition_5fspace_17',['partition_space',['../classpartition__space.html',1,'']]],
-  ['partition_5fspace_5fclient_18',['partition_space_client',['../structpartition__space__client.html',1,'']]],
-  ['partition_5fspace_5fserver_19',['partition_space_server',['../structpartition__space__server.html',1,'']]],
-  ['point3_20',['Point3',['../structutil_1_1Point3.html',1,'util::Point3'],['../structutil_1_1Point3.html#a5dccfcf3a59260d7f36b1c01a2ebd13b',1,'util::Point3::Point3()'],['../structutil_1_1Point3.html#a30f5ec8bd80e2948ea0ddbc03d0ea155',1,'util::Point3::Point3(double x, double y, double z)']]],
-  ['print_21',['print',['../structutil_1_1Point3.html#ae24578c1d9989d52aa7bff4c43c711e4',1,'util::Point3']]]
+  ['get_5fdata_27',['get_data',['../structpartition__space__server.html#afe4f667c30932e84b482e4ff9d2d3b45',1,'partition_space_server::get_data()'],['../structpartition__space__client.html#aaf5c40bc7df7d4b85171eebca110ff40',1,'partition_space_client::get_data()']]],
+  ['gx_28',['gx',['../classpartition__space.html#a978381306fa427f5304d4decda7e29f6',1,'partition_space']]],
+  ['gy_29',['gy',['../classpartition__space.html#af8eeba2c7cfdb5b43401b16ea121af7c',1,'partition_space']]]
 ];

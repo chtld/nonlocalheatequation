@@ -1,0 +1,5 @@
+<map id="solver::sum_local_partition" name="solver::sum_local_partition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,204,69"/>
+<area shape="rect" id="node2" href="$structpartition__space__client.html#aaf5c40bc7df7d4b85171eebca110ff40" title="Invoke the (remote) member function which gives us access to the data. This is a pure helper function..." alt="" coords="257,5,422,47"/>
+<area shape="rect" id="node3" href="$classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e" title="Function to retrieve the data from possibly remote partitions for vector of square sundomains." alt="" coords="252,71,427,98"/>
+</map>
