@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['vector_5fget_5fdata_116',['vector_get_data',['../classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e',1,'solver']]],
-  ['vtkwriter_117',['VtkWriter',['../classrw_1_1writer_1_1VtkWriter.html#ad861f9efa6156474c4ea804168d4ed9b',1,'rw::writer::VtkWriter']]]
+  ['test_5fload_5fbalance_120',['test_load_balance',['../classsolver.html#a53156b7b2722f8270c148d3ffc97d8c3',1,'solver']]]
 ];

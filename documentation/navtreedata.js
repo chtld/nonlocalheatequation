@@ -25,7 +25,22 @@
 var NAVTREE =
 [
   [ "Nonlocalheatequation", "index.html", [
-    [ "nonlocalheatequation <a href=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation\"><img src=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation.svg?style=shield\" alt=\"CircleCI\"/></a> <a href=\"https://app.codacy.com/gh/nonlocalmodels/nonlocalheatequation?utm_source=github.com&utm_medium=referral&utm_content=nonlocalmodels/nonlocalheatequation&utm_campaign=Badge_Grade_Dashboard\"><img src=\"https://api.codacy.com/project/badge/Grade/6fcd87ddfb4146f7b236c2ac2dc0bd42\" alt=\"Codacy Badge\"/></a> <a href=\"https://coveralls.io/github/nonlocalmodels/nonlocalheatequation?branch=master\"><img src=\"https://coveralls.io/repos/github/nonlocalmodels/nonlocalheatequation/badge.svg?branch=master\" alt=\"Coverage Status\"/></a>", "index.html", null ],
+    [ "Nonlocal Heat Equation <a href=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation\"><img src=\"https://circleci.com/gh/nonlocalmodels/nonlocalheatequation.svg?style=shield\" alt=\"CircleCI\"/></a> <a href=\"https://app.codacy.com/gh/nonlocalmodels/nonlocalheatequation?utm_source=github.com&utm_medium=referral&utm_content=nonlocalmodels/nonlocalheatequation&utm_campaign=Badge_Grade_Dashboard\"><img src=\"https://api.codacy.com/project/badge/Grade/6fcd87ddfb4146f7b236c2ac2dc0bd42\" alt=\"Codacy Badge\"/></a> <a href=\"https://coveralls.io/github/nonlocalmodels/nonlocalheatequation?branch=master\"><img src=\"https://coveralls.io/repos/github/nonlocalmodels/nonlocalheatequation/badge.svg?branch=master\" alt=\"Coverage Status\"/></a>", "index.html", [
+      [ "About", "index.html#autotoc_md1", null ],
+      [ "Project Summary", "index.html#autotoc_md2", null ],
+      [ "Folder information", "index.html#autotoc_md3", null ],
+      [ "Source files information", "index.html#autotoc_md4", null ],
+      [ "Dependencies and version", "index.html#autotoc_md5", null ],
+      [ "Building and Installation", "index.html#autotoc_md6", null ],
+      [ "Running tests", "index.html#autotoc_md7", null ],
+      [ "Quick Start", "index.html#autotoc_md8", [
+        [ "Domain decomposition Tool", "index.html#autotoc_md9", null ],
+        [ "Distributed 2d nonlocal equation", "index.html#autotoc_md10", null ],
+        [ "Test Load balancing", "index.html#autotoc_md11", null ]
+      ] ],
+      [ "Student Developer", "index.html#autotoc_md12", null ],
+      [ "Mentors", "index.html#autotoc_md13", null ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],

@@ -237,14 +237,11 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>do_work</b> ()</td></
 void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsolver.html#a9a7fb58454a8f4464d83fec2dc947f2f">print_soln</a> ()</td></tr>
 <tr class="memdesc:a9a7fb58454a8f4464d83fec2dc947f2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">print the solution for the user <br /></td></tr>
 <tr class="separator:a9a7fb58454a8f4464d83fec2dc947f2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a53156b7b2722f8270c148d3ffc97d8c3"><td class="memItemLeft" align="right" valign="top"><a id="a53156b7b2722f8270c148d3ffc97d8c3"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>test_load_balance</b> ()</td></tr>
+<tr class="memitem:a53156b7b2722f8270c148d3ffc97d8c3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsolver.html#a53156b7b2722f8270c148d3ffc97d8c3">test_load_balance</a> ()</td></tr>
 <tr class="separator:a53156b7b2722f8270c148d3ffc97d8c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65b25d3a393184435d7aa04c035ec090"><td class="memItemLeft" align="right" valign="top"><a id="a65b25d3a393184435d7aa04c035ec090"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>locality_subdomain_bfs</b> (int node_id, int node_subdomain, std::vector&lt; std::vector&lt; int &gt; &gt; &amp;locality_ids, int visited_subdomain[], int visited_node[], int work_realloc[], int total_subdomains[])</td></tr>
+<tr class="memitem:a65b25d3a393184435d7aa04c035ec090"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsolver.html#a65b25d3a393184435d7aa04c035ec090">locality_subdomain_bfs</a> (int node_id, int node_subdomain, std::vector&lt; std::vector&lt; int &gt; &gt; &amp;locality_ids, int visited_subdomain[], int visited_node[], int work_realloc[], int total_subdomains[])</td></tr>
 <tr class="separator:a65b25d3a393184435d7aa04c035ec090"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a346faee56605a70710618f24431c0b56"><td class="memItemLeft" align="right" valign="top"><a id="a346faee56605a70710618f24431c0b56"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>redistribution_dfs</b> (int parent_id, int node_id, std::vector&lt; std::vector&lt; int &gt; &gt; &amp;locality_ids, std::set&lt; int &gt; adj_set[], int visited_subdomain[], int visited_node[], int work_realloc[], int node_subdomain[], int total_subdomains[])</td></tr>
+<tr class="memitem:a346faee56605a70710618f24431c0b56"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsolver.html#a346faee56605a70710618f24431c0b56">redistribution_dfs</a> (int parent_id, int node_id, std::vector&lt; std::vector&lt; int &gt; &gt; &amp;locality_ids, std::set&lt; int &gt; adj_set[], int visited_subdomain[], int visited_node[], int work_realloc[], int node_subdomain[], int total_subdomains[])</td></tr>
 <tr class="separator:a346faee56605a70710618f24431c0b56"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1203346a512c3c94c2246d8a22294e60"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="structpartition__space__client.html">partition_space_client</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsolver.html#a1203346a512c3c94c2246d8a22294e60">load_balance</a> (std::vector&lt; <a class="el" href="structpartition__space__client.html">partition_space_client</a> &gt; unbalanced_data)</td></tr>
 <tr class="separator:a1203346a512c3c94c2246d8a22294e60"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -914,6 +911,106 @@ Here is the call graph for this function:</div>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>std::vector of client-side data structures with some square subdomains possibly reassigned to different nodes </dd></dl>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classsolver_a1203346a512c3c94c2246d8a22294e60_cgraph.png" border="0" usemap="#classsolver_a1203346a512c3c94c2246d8a22294e60_cgraph" alt=""/></div>
+<map name="classsolver_a1203346a512c3c94c2246d8a22294e60_cgraph" id="classsolver_a1203346a512c3c94c2246d8a22294e60_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,161,32"/>
+<area shape="rect" href="classsolver.html#a346faee56605a70710618f24431c0b56" title=" " alt="" coords="209,5,393,32"/>
+<area shape="rect" href="classsolver.html#a65b25d3a393184435d7aa04c035ec090" title=" " alt="" coords="441,5,665,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a65b25d3a393184435d7aa04c035ec090"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65b25d3a393184435d7aa04c035ec090">&#9670;&nbsp;</a></span>locality_subdomain_bfs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void solver::locality_subdomain_bfs </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>node_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>node_subdomain</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; std::vector&lt; int &gt; &gt; &amp;&#160;</td>
+          <td class="paramname"><em>locality_ids</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>visited_subdomain</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>visited_node</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>work_realloc</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>total_subdomains</em>[]&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>function for bfs for extending the domain corresponding to each of the nodes uniformly in all possible directions so that the change of shape in the region corresponding to a node does not change much </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">node_id</td><td>node id of the region whose boundary is being extended or contracted </td></tr>
+    <tr><td class="paramname">node_subdomain</td><td>a square subdomain's id in the region belonging to the current node </td></tr>
+    <tr><td class="paramname">locality_ids</td><td>locality id to which a particular square subdomain is attached </td></tr>
+    <tr><td class="paramname">visited_subdomain</td><td>data structure to keep a track of sudomains corresponding to current node </td></tr>
+    <tr><td class="paramname">visited_node</td><td>data structure to keep a track of visited nodes </td></tr>
+    <tr><td class="paramname">work_realloc</td><td>number of subdomains that need to be exchanged by various nodes </td></tr>
+    <tr><td class="paramname">total_subdomains</td><td>counter for each nodes denoting number of square subdomains for each of the nodes </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">Referenced by <a class="el" href="classsolver.html#a346faee56605a70710618f24431c0b56">redistribution_dfs()</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classsolver_a65b25d3a393184435d7aa04c035ec090_icgraph.png" border="0" usemap="#classsolver_a65b25d3a393184435d7aa04c035ec090_icgraph" alt=""/></div>
+<map name="classsolver_a65b25d3a393184435d7aa04c035ec090_icgraph" id="classsolver_a65b25d3a393184435d7aa04c035ec090_icgraph">
+<area shape="rect" title=" " alt="" coords="441,5,665,32"/>
+<area shape="rect" href="classsolver.html#a346faee56605a70710618f24431c0b56" title=" " alt="" coords="209,5,393,32"/>
+<area shape="rect" href="classsolver.html#a1203346a512c3c94c2246d8a22294e60" title=" " alt="" coords="5,5,161,32"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -1065,6 +1162,118 @@ Here is the call graph for this function:</div>
 <map name="classsolver_aef9fd46e8c35c9e321eec369bf827a61_cgraph" id="classsolver_aef9fd46e8c35c9e321eec369bf827a61_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,144,32"/>
 <area shape="rect" href="classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e" title="Function to retrieve the data from possibly remote partitions for vector of square sundomains." alt="" coords="192,5,367,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a346faee56605a70710618f24431c0b56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a346faee56605a70710618f24431c0b56">&#9670;&nbsp;</a></span>redistribution_dfs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void solver::redistribution_dfs </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>parent_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>node_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; std::vector&lt; int &gt; &gt; &amp;&#160;</td>
+          <td class="paramname"><em>locality_ids</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::set&lt; int &gt;&#160;</td>
+          <td class="paramname"><em>adj_set</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>visited_subdomain</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>visited_node</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>work_realloc</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>node_subdomain</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>total_subdomains</em>[]&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>function for inserting the rectangles which are just above, below and on the sides of the given partition into the unordered_map used to index the squares already inserted into the vector </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">parent_id</td><td>node id of the parent in the DFS </td></tr>
+    <tr><td class="paramname">node_id</td><td>node id of the region whose boundary is being extended or contracted </td></tr>
+    <tr><td class="paramname">locality_ids</td><td>locality id to which a particular square subdomain is attached </td></tr>
+    <tr><td class="paramname">adj_set</td><td>adjacency list for each of the nodes </td></tr>
+    <tr><td class="paramname">visited_subdomain</td><td>data structure to keep a track of sudomains corresponding to current node </td></tr>
+    <tr><td class="paramname">visited_node</td><td>data structure to keep a track of visited nodes </td></tr>
+    <tr><td class="paramname">work_realloc</td><td>number of subdomains that need to be exchanged by various nodes </td></tr>
+    <tr><td class="paramname">node_subdomain</td><td>std::vector containing a square subdomain's id in the region belonging to the various nodes </td></tr>
+    <tr><td class="paramname">total_subdomains</td><td>counter for each nodes denoting number of square subdomains for each of the nodes </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">Referenced by <a class="el" href="classsolver.html#a1203346a512c3c94c2246d8a22294e60">load_balance()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classsolver_a346faee56605a70710618f24431c0b56_cgraph.png" border="0" usemap="#classsolver_a346faee56605a70710618f24431c0b56_cgraph" alt=""/></div>
+<map name="classsolver_a346faee56605a70710618f24431c0b56_cgraph" id="classsolver_a346faee56605a70710618f24431c0b56_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,189,32"/>
+<area shape="rect" href="classsolver.html#a65b25d3a393184435d7aa04c035ec090" title=" " alt="" coords="237,5,461,32"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classsolver_a346faee56605a70710618f24431c0b56_icgraph.png" border="0" usemap="#classsolver_a346faee56605a70710618f24431c0b56_icgraph" alt=""/></div>
+<map name="classsolver_a346faee56605a70710618f24431c0b56_icgraph" id="classsolver_a346faee56605a70710618f24431c0b56_icgraph">
+<area shape="rect" title=" " alt="" coords="209,5,393,32"/>
+<area shape="rect" href="classsolver.html#a1203346a512c3c94c2246d8a22294e60" title=" " alt="" coords="5,5,161,32"/>
 </map>
 </div>
 
@@ -1237,6 +1446,32 @@ Here is the call graph for this function:</div>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>temperature value at point (pos_x, pos_y) for analytical solution </dd></dl>
+
+</div>
+</div>
+<a id="a53156b7b2722f8270c148d3ffc97d8c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53156b7b2722f8270c148d3ffc97d8c3">&#9670;&nbsp;</a></span>test_load_balance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void solver::test_load_balance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>function for checking the load balancing and visualizing the same using hpx::performance counters </p>
 
 </div>
 </div>

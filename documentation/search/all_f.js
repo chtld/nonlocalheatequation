@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['vector_5fget_5fdata_68',['vector_get_data',['../classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e',1,'solver']]],
-  ['vtkwriter_69',['VtkWriter',['../classrw_1_1writer_1_1VtkWriter.html',1,'rw::writer::VtkWriter'],['../classrw_1_1writer_1_1VtkWriter.html#ad861f9efa6156474c4ea804168d4ed9b',1,'rw::writer::VtkWriter::VtkWriter()']]]
+  ['unit_69',['unit',['../structutil_1_1Point3.html#a6f5bb647d3bf440ea64cfedfd758e884',1,'util::Point3::unit()'],['../structutil_1_1Point3.html#a345bca0e2f931f52b28093c636aad6b6',1,'util::Point3::unit() const']]],
+  ['util_70',['util',['../namespaceutil.html',1,'']]]
 ];
