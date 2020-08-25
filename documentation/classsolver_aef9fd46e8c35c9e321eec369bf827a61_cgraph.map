@@ -1,4 +1,7 @@
 <map id="solver::print_error" name="solver::print_error">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node2" href="$classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e" title="Function to retrieve the data from possibly remote partitions for vector of square sundomains." alt="" coords="192,5,367,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,51,144,77"/>
+<area shape="rect" id="node2" href="$classsolver.html#aae56dce50f8676a6aba60574d7ab908f" title=" " alt="" coords="196,25,343,52"/>
+<area shape="rect" id="node3" href="$classsolver.html#a2cc3ca9950c49fa4985635a068af3c2e" title="Function to retrieve the data from possibly remote partitions for vector of square sundomains." alt="" coords="395,25,569,52"/>
+<area shape="rect" id="node4" href="$classsolver.html#a9698b4227220961889deee0136213f52" title=" " alt="" coords="441,76,523,103"/>
+<area shape="rect" id="node5" href="$classsolver.html#ac371e921db8b7458029e9ca5df6f6cf8" title=" " alt="" coords="192,76,347,103"/>
 </map>

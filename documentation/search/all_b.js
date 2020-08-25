@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['p_44',['P',['../classsolver.html#a06a3bf042502279721058f047064040d',1,'solver::P()'],['../classsolver.html#a06a3bf042502279721058f047064040d',1,'solver::P()']]],
+  ['p_44',['P',['../classsolver.html#a06a3bf042502279721058f047064040d',1,'solver']]],
   ['param_5ffile_5finput_45',['param_file_input',['../classsolver.html#aaf2e8c330af74dcb3df3213ef7e2dace',1,'solver']]],
   ['partition_5ffut_46',['partition_fut',['../classsolver.html#ad548b19a65c93bad6d2a87b3dfd01a32',1,'solver']]],
   ['partition_5fspace_47',['partition_space',['../classpartition__space.html',1,'partition_space'],['../classpartition__space.html#a9e667b18a45c49add57cdf8c72b6e4b0',1,'partition_space::partition_space()'],['../classpartition__space.html#af019b82dba265c25c877d5bd21961dd8',1,'partition_space::partition_space(std::size_t size, long gx, long gy)'],['../classpartition__space.html#a44d5eeefe6a73f40ce391d9c9c100625',1,'partition_space::partition_space(long nx, long ny, long gx, long gy)']]],
